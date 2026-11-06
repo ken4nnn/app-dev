@@ -10,9 +10,6 @@ Welcome to Ken's corner of GitHub! This is a collection of the **series** and *m
 
 - [Favorite Series](#-favorite-series)
 - [Favorite Movies](#-favorite-movies)
-- [Top Picks](#-top-picks)
-- [Watch Again Checklist](#-watch-again-checklist)
-- [Fun Code Snippet](#-fun-code-snippet)
 
 ---
 
